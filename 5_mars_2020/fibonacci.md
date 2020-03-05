@@ -1,0 +1,32 @@
+## fibonacci
+
+### Instructions
+
+Écrire une fonction **récursive** qui renvoie la valeur de la suite de fibonacci correspondant à l'index passé en paramètre.
+
+La premiére valeur est à l'index `0`.
+
+La suite débute ainsi: 0, 1, 1, 2, 3 etc...
+
+Un index négatif renvoie `-1`.
+
+`for` est **interdit** pour cet exercice.
+
+### Fonction attendue
+
+```go
+package piscine
+
+func Fibonacci(index int) int {
+
+}
+```
+
+Et son résultat :
+
+```console
+student@ubuntu:~/[[ROOT]]/test$go build
+student@ubuntu:~/[[ROOT]]/test$ ./test
+3
+student@ubuntu:~/[[ROOT]]/test$
+```
