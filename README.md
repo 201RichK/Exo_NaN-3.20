@@ -16,13 +16,13 @@ NB: il es formellement interdit de se partager les codes
     vous aurez les resultat apres corection dans le fichier correction.md
 
 
-# Resulatat
+# Resultat
 
-Nom               | Prenom       |      Note
+Nom               | Prenom       |      Note        |
 ----------------- | -------------|------------------
-Aissi Mel Jean    |              |
-Toure Abdoul Karim|              |
-Kouame Moise      |              |
-Soro Pelmansion   |              |
-Cheke Blanchard   |              |
-Diaby Ibrahim     |              |
+Aissi Mel Jean    |              |                   |
+Toure Abdoul Karim|              |  |
+Kouame Moise      |              |  |
+Soro Pelmansion   |              |  |
+Cheke Blanchard   |              |  |
+Diaby Ibrahim     |              |  |
