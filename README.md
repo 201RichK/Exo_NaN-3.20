@@ -24,3 +24,21 @@ NB: il es formellement interdit de se partager les codes
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|--------------|
 fibionacci        |     1        |  0                 |  0            | 1                |       0         |            1 |
+
+
+
+# Rappell
+
+```go
+package main
+
+import (
+    "fmt"
+)
+
+//We love code
+
+func main() {
+    fmt.Println("Hello Gophers ...")
+}
+```
