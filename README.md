@@ -13,7 +13,7 @@ Aussi le nom de l'exo sera le nom du dossier.
 
 
 NB: il es formellement interdit de se partager les codes 
-    vous aurez les resultat apres corection dans le fichier correction.md
+    vous aurez les resultat apres corection
 
 
 # Resultat
