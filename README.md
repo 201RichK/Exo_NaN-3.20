@@ -19,5 +19,5 @@ NB: il es formellement interdit de se partager les codes
 # Resultat
 
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim |
------------------ | -------------|---------------------------------------------------------------------------------------
+----------------- | -------------|-------------------|---------------|------------------|-----------------|--------------|
 fibionnacci       |     1       | 0         |  0            | 0         | 0         |       1 |
