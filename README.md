@@ -11,13 +11,16 @@ Vous aller traiter tout les exos que je vais donnees et les ajouter a votre repo
 je passerai chaque heure de fin d'exo pour corriger.
 Aussi le nom de l'exo sera le nom du dossier.
 
+# calendrier exos
+du lundi au Dimanche de 17H a 6h 
+**si le lendemain a 6H tu n'a rien trouver c'est 00**
+
 
 NB: il es formellement interdit de se partager les codes 
     vous aurez les resultat apres corection
 
 
 # Resultat
-
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim |
------------------ | -------------|-------------------|---------------|------------------|-----------------|--------------|
-fibionacci        |     1        | 0                 |  0            | 1                |       0         |            1 |
+----------------- | --------------|-------------------|---------------|------------------|-----------------|--------------|
+fibionacci        |     1        |  0                 |  0            | 1                |       0         |            1 |
