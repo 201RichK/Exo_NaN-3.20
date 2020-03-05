@@ -15,10 +15,27 @@ Un index négatif renvoie `-1`.
 ### Fonction attendue
 
 ```go
-package piscine
+package main
 
 func Fibonacci(index int) int {
 
+}
+```
+
+### Utilisation
+
+Voici un éventuel `main.go` :
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	arg1 := 4
+	fmt.Println(Fibonacci(arg1))
 }
 ```
 
