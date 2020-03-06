@@ -21,10 +21,11 @@ Vous aurez les résultats après correction.
 
 
 # Resultat
-exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
------------------ | --------------|-------------------|---------------|------------------|-----------------|--------------|
-fibionacci        |     1        |  0                 |  0            | 1                |       0         |            1 |
-
+exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
+----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|
+fibionacci        |     1         |  0                |  0            | 1                |       0         |            1  |
+----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|
+fibionacci 2      |     1         |  0                |  0            | 0                |       0         |            0  |
 
 
 # Golang Code Exemple
