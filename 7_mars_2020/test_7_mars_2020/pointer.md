@@ -32,6 +32,8 @@ declarer et afficher une strure de personne sachant qu'une personne a un nom pre
 
 faites une boucle for sur le tableau precedent pour afficher les nom
 
+NB: la boucle for range n'est pas accepter
+
 ## Exo4 Fibionacci
 
 eccrire la suite de fibionacci 
