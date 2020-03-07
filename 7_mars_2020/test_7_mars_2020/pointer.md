@@ -10,7 +10,6 @@ je croix je me suis tromper aider moi
     fmt.Println(j)
 ```
 
-
 ## EXO_2 Tableau
 a est un tableau de 5 string ["201RichK", "Franck", "zulu", "Mathieu", "Anna"] 
 anna es la seul fille on veux la supprimer du tableau mais je sais pas coment faire
@@ -38,6 +37,6 @@ faites une boucle for sur le tableau precedent pour afficher les nom
 eccrire la suite de fibionacci 
 le resultat doit etre sous la forme ```1`` pour fibio(1)
 
-## Somme 
+## Exo5 Somme 
 
 Eccrire une fonction qui calcule la somme de 3 entier passer en parametre 
