@@ -24,23 +24,21 @@ Vous aurez les résultats après correction.
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|
 fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |
-fibionacci 2      |     1         |  0                |  0            | 0                |       0         |         0     |
+fibionacci 2      |     1         |  0                |  1            | 1                |       0         |         0     |
 Abort             |     1         |  0                |  0            | 0                |       0         |         0     |
-boolean           |               |                   |               |                  |                 |               |
-itoa              |               |                   |               |                  |                 |               |
-tabmult           |               |                   |               |                  |                 |               |
-addprimesum       |               |                   |               |                  |                 |               |
-lastword          |               |                   |               |                  |                 |               |
-point             |               |                   |               |                  |                 |               |
-pointone          |               |                   |               |                  |                 |               |
-sortintegertable  |               |                   |               |                  |                 |               |
-unmatch           |               |                   |               |                  |                 |               |
+itoa              |               |                   |  0            | 0                |                 |               |
+tabmult           |     0         |                   |  0            | 0                |                 |               |
+addprimesum       |     1         |                   |               | 1                |                 |               |
+lastword          |               |                   |               | 1                |                 |               |
+pointone          |     1         |                   |               | 1                |                 |               |
+sortintegertable  |     1         |                   |               | 1                |                 |               |
+unmatch           |     0         |                   |               |                  |                 |               |
 activebits        |               |                   |               |                  |                 |               |
 advancedsortint   |               |                   |               |                  |                 |               |
 alphacount        |               |                   |               |                  |                 |               |
 compare           |               |                   |               |                  |                 |               |
-isprime           |               |                   |               |                  |                 |               |
-map               |               |                   |               |                  |                 |               |
+isprime           |     1         |                   |               |                  |                 |               |
+map               |     0         |                   |               |                  |                 |               |
 enigma            |               |                   |               |                  |                 |               |
 isalpha           |               |                   |               |                  |                 |               |
 islower           |               |                   |               |                  |                 |               |
@@ -51,7 +49,7 @@ exo               |groupe1        |groupe2            | groupe3       |groupe4  
 ----------------- |---------------|-------------------|---------------|------------------|
 compos1a          |               |                   |               |                  |
 
-# Golang Code Exemple
+# Golang Code Exempl
 
 ```go
 package main
@@ -61,7 +59,6 @@ import (
 )
 
 //We love code
-
 func main() {
     fmt.Println("Hello Gophers ...")
 }
