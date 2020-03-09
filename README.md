@@ -23,9 +23,33 @@ Vous aurez les résultats après correction.
 # Resultat
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|
-fibionacci        |     1         |  0                |  0            | 1                |       0         |            1  |
-fibionacci 2      |     1         |  0                |  0            | 0                |       0         |            0  |
-Abort             |     0         |  0                |  0            | 0                |       0         |            0  |
+fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |
+fibionacci 2      |     1         |  0                |  0            | 0                |       0         |         0     |
+Abort             |     1         |  0                |  0            | 0                |       0         |         0     |
+boolean           |               |                   |               |                  |                 |               |
+itoa              |               |                   |               |                  |                 |               |
+tabmult           |               |                   |               |                  |                 |               |
+addprimesum       |               |                   |               |                  |                 |               |
+lastword          |               |                   |               |                  |                 |               |
+point             |               |                   |               |                  |                 |               |
+pointone          |               |                   |               |                  |                 |               |
+sortintegertable  |               |                   |               |                  |                 |               |
+unmatch           |               |                   |               |                  |                 |               |
+activebits        |               |                   |               |                  |                 |               |
+advancedsortint   |               |                   |               |                  |                 |               |
+alphacount        |               |                   |               |                  |                 |               |
+compare           |               |                   |               |                  |                 |               |
+isprime           |               |                   |               |                  |                 |               |
+map               |               |                   |               |                  |                 |               |
+enigma            |               |                   |               |                  |                 |               |
+isalpha           |               |                   |               |                  |                 |               |
+islower           |               |                   |               |                  |                 |               |
+rot13             |               |                   |               |                  |                 |               |
+
+# COMPOS
+exo               |groupe1        |groupe2            | groupe3       |groupe3           | groupe4         |
+----------------- | --------------|-------------------|---------------|------------------|-----------------|
+compos1a          |               |                   |               |                  |                 | 
 
 # Golang Code Exemple
 
