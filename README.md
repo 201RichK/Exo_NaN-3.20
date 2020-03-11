@@ -26,23 +26,34 @@ exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelm
 fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |
 fibionacci 2      |     1         |  0                |  1            | 1                |       0         |         0     |
 Abort             |     1         |  0                |  0            | 0                |       0         |         0     |
-itoa              |               |                   |  0            | 0                |                 |               |
-tabmult           |     0         |                   |  0            | 0                |                 |               |
-addprimesum       |     1         |                   |               | 1                |                 |               |
-lastword          |               |                   |               | 1                |                 |               |
-pointone          |     1         |                   |               | 1                |                 |               |
-sortintegertable  |     1         |                   |               | 1                |                 |               |
-unmatch           |     1         |                   |               |                  |                 |               |
-activebits        |               |                   |               |                  |                 |               |
-advancedsortint   |               |                   |               |                  |                 |               |
+itoa              |     0         |  0                |  0            | 0                |       0         |         0     |
+tabmult           |     0         |  0                |  0            | 0                |       0         |         0     |
+addprimesum       |     1         |  0                |  0            | 1                |       0         |         0     |
+lastword          |     0         |  0                |  0            | 1                |       0         |         0     |
+pointone          |     1         |  0                |  0            | 1                |       0         |         0     |
+sortintegertable  |     1         |  0                |  0            | 1                |       0         |         0     |
+unmatch           |     1         |  0                |  0            | 0                |       0         |         0     |
+activebits        |     1         |  0                |  0            |  0               |       0         |         0     |
+advancedsortint   |     1         |  0                |  0            |  0               |       0         |         0     |
+alphacount        |     1         |  0                |  0            |  0               |       0         |         0     |
+compare           |     1         |  0                |  0            |  0               |       0         |         0     |
+isprime           |     1         |  0                |  0            |  0               |       0         |         0     |
+map               |     1         |  0                |  0            |  0               |       0         |         0     |
+enigma            |     0         |  0                |  0            |  0               |       0         |         0     |
+isalpha           |     1         |  0                |  0            |  0               |       0         |         0     |
+islower           |     1         |  0                |  0            |  0               |       0         |         0     |
+rot13             |     0         |  0                |  0            |  0               |       0         |         0     |
+Collatz           |     1         |  0                |  0            |  0               |       0         |         0     |
+Compact           |     1         |  0                |  0            |  0               |       0         |         0     |
+Divmod            |     1         |  0                |  0            |  0               |       0         |         0     |
+appendrange       |               |                   |               |                  |                 |               |
+inter             |               |                   |               |                  |                 |               |
+onlya             |               |                   |               |                  |                 |               |
+range             |               |                   |               |                  |                 |               |
+reverserabge      |               |                   |               |                  |                 |               |
 alphacount        |               |                   |               |                  |                 |               |
-compare           |               |                   |               |                  |                 |               |
-isprime           |     1         |                   |               |                  |                 |               |
-map               |     0         |                   |               |                  |                 |               |
-enigma            |               |                   |               |                  |                 |               |
-isalpha           |               |                   |               |                  |                 |               |
-islower           |               |                   |               |                  |                 |               |
-rot13             |               |                   |               |                  |                 |               |
+cleanstr          |               |                   |               |                  |                 |               |
+isnegative        |               |                   |               |                  |                 |               |
 
 # COMPOS
 exo               |groupe1        |groupe2            | groupe3       |groupe4           |
