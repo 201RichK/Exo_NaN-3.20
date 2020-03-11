@@ -20,7 +20,7 @@ NB: Il est formellement interdit de se partager les codes.
 Vous aurez les résultats après correction.
 
 
-# Resultat
+# Resultat :smirk:
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|
 fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |
