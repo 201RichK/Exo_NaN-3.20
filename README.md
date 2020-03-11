@@ -23,7 +23,7 @@ Vous aurez les résultats après correction.
 # Resultat :smirk:
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |Zady Hans D    |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|---------------|
-fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |         0     |
+fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |         1     |
 fibionacci 2      |     1         |  0                |  1            | 1                |       0         |         0     |         0     |
 Abort             |     1         |  0                |  0            | 0                |       0         |         0     |         0     |
 itoa              |     0         |  0                |  0            | 0                |       0         |         0     |         0     |
