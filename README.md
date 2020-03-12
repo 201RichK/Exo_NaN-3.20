@@ -23,16 +23,16 @@ Vous aurez les résultats après correction.
 # Resultat :smirk:
 exo               | Aissi Mel Jean|Toure Abdoul Karim | Kouame Moise  |Soro Pelmansion   | Cheke Blanchard |Diaby Ibrahim  |Zady Hans D    |
 ----------------- | --------------|-------------------|---------------|------------------|-----------------|---------------|---------------|
-fibionacci        |     1         |  0                |  0            | 1                |       0         |         1     |         1     |
-fibionacci 2      |     1         |  0                |  1            | 1                |       0         |         0     |         0     |
-Abort             |     1         |  0                |  0            | 0                |       0         |         0     |         0     |
-itoa              |     0         |  0                |  0            | 0                |       0         |         0     |         0     |
-tabmult           |     0         |  0                |  0            | 0                |       0         |         0     |         0     |
-addprimesum       |     1         |  0                |  0            | 1                |       0         |         0     |         0     |
-lastword          |     0         |  0                |  0            | 1                |       0         |         0     |         0     |
-pointone          |     1         |  0                |  0            | 1                |       0         |         0     |         0     |
-sortintegertable  |     1         |  0                |  0            | 1                |       0         |         0     |         0     |
-unmatch           |     1         |  0                |  0            | 0                |       0         |         0     |         0     |
+fibionacci        |     1         |  0                |  0            |  1               |       0         |         1     |         1     |
+fibionacci 2      |     1         |  0                |  1            |  1               |       0         |         0     |         0     |
+Abort             |     1         |  0                |  0            |  0               |       0         |         0     |         0     |
+itoa              |     0         |  0                |  0            |  0               |       0         |         0     |         0     |
+tabmult           |     0         |  0                |  0            |  0               |       0         |         0     |         0     |
+addprimesum       |     1         |  0                |  0            |  1               |       0         |         0     |         0     |
+lastword          |     0         |  0                |  0            |  1               |       0         |         0     |         0     |
+pointone          |     1         |  0                |  1            |  1               |       0         |         0     |         0     |
+sortintegertable  |     1         |  0                |  0            |  1               |       0         |         0     |         0     |
+unmatch           |     1         |  0                |  0            |  0               |       0         |         0     |         0     |
 activebits        |     1         |  0                |  0            |  0               |       0         |         0     |         0     |
 advancedsortint   |     1         |  0                |  0            |  0               |       0         |         0     |         0     |
 alphacount        |     1         |  0                |  0            |  0               |       0         |         0     |         0     |
