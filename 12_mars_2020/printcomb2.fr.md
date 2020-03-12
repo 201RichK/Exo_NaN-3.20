@@ -21,10 +21,8 @@ Voici un éventuel programme pour tester votre fonction :
 ```go
 package main
 
-import piscine ".."
-
 func main() {
-	piscine.PrintComb2()
+	PrintComb2()
 }
 ```
 
