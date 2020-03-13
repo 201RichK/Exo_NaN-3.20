@@ -18,7 +18,7 @@
 4. ==> Le taux de TVA est en fait commun à tous les articles. Pour éviter toute redondance de cet attribut, vous devriez donc Proposer une solution et tester de nouveau.
 
 
-![Ilustration](file:///Users/ecolenan/Desktop/Capture%20d%E2%80%99e%CC%81cran%202020-03-13%20a%CC%80%2017.37.08.png)
+![Ilustration](./inter.png)
 
 ```go
 package main
