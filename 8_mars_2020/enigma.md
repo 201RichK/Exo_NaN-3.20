@@ -67,7 +67,7 @@ func main() {
 	fmt.Println(****d)
 
 }
-```
+```*******
 
 Et son résultat :
 
